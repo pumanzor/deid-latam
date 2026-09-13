@@ -88,23 +88,23 @@ half counts as a leak, because "Rojas Miranda" still identifies a person.
 |---|---|---|---|
 | NAME | 0.0% | 0.0% | 92 |
 | DATE | 100% | 100% | 52 |
-| **RUT** | **3.8%** | **100%** | 52 |
+| **RUT** | **5.8%** | **100%** | 52 |
 | PHONE | 79.5% | 79.5% | 44 |
 | CITY | 90.0% | 90.0% | 40 |
 | FACILITY | 3.1% | 3.1% | 32 |
 | AGE | 0.0% | 0.0% | 24 |
 | ADDRESS | 29.2% | 29.2% | 24 |
-| RECORD ID | 4.2% | 8.3% | 24 |
+| RECORD ID | 4.2% | 4.2% | 24 |
 | EMAIL | 100% | 100% | 20 |
-| **TOTAL** | **36.0%** | **47.9%** | 428 |
+| **TOTAL** | **36.2%** | **47.7%** | 428 |
 | **Documents with a leak** | **32/32** | **32/32** | 32 |
 
 Three things worth reading twice.
 
-**The RUT goes from 3.8% to 100%.** That is what this package does.
+**The RUT goes from 5.8% to 100%.** That is what this package does.
 
 **Names sit at 0% complete, and 76% partial.** The model is not blind to names, it
-detects a fragment of three out of four and never covers the whole thing. Spanish
+detects a fragment of 76% of them and never covers the whole thing. Spanish
 speaking Latin America uses two surnames, and the model tags one token and stops.
 
 **Fixing the RUT saves no document at all.** Both columns leak in 32 of 32, because the
