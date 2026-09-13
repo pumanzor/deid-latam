@@ -1,0 +1,153 @@
+{
+  "id": "epicrisis_02",
+  "plantilla": "epicrisis",
+  "entidades": [
+    {
+      "inicio": 132,
+      "fin": 152,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Clinica Santa Amelia"
+    },
+    {
+      "inicio": 154,
+      "fin": 166,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "San Bernardo"
+    },
+    {
+      "inicio": 177,
+      "fin": 207,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Rodrigo Antonio Fuentes Cortes"
+    },
+    {
+      "inicio": 213,
+      "fin": 222,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "121522713"
+    },
+    {
+      "inicio": 244,
+      "fin": 254,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "05/06/1953"
+    },
+    {
+      "inicio": 256,
+      "fin": 258,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "66"
+    },
+    {
+      "inicio": 276,
+      "fin": 299,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Avenida Los Aromos 1392"
+    },
+    {
+      "inicio": 301,
+      "fin": 308,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "Quilpue"
+    },
+    {
+      "inicio": 331,
+      "fin": 342,
+      "tipo": "TELEFONO",
+      "rol": "paciente",
+      "texto": "74 767 5905"
+    },
+    {
+      "inicio": 351,
+      "fin": 376,
+      "tipo": "EMAIL",
+      "rol": "paciente",
+      "texto": "rcortes@correo-ejemplo.cl"
+    },
+    {
+      "inicio": 394,
+      "fin": 402,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "F2891-23"
+    },
+    {
+      "inicio": 414,
+      "fin": 437,
+      "tipo": "PREVISION",
+      "rol": "paciente",
+      "texto": "Isapre Consalud plan 2C"
+    },
+    {
+      "inicio": 456,
+      "fin": 473,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "5 de mayo de 2026"
+    },
+    {
+      "inicio": 492,
+      "fin": 502,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "07/12/2026"
+    },
+    {
+      "inicio": 534,
+      "fin": 536,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "66"
+    },
+    {
+      "inicio": 926,
+      "fin": 953,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Diego Alonso Herrera Campos"
+    },
+    {
+      "inicio": 1138,
+      "fin": 1148,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "17/08/2026"
+    },
+    {
+      "inicio": 1193,
+      "fin": 1220,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Diego Alonso Herrera Campos"
+    },
+    {
+      "inicio": 1491,
+      "fin": 1518,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Diego Alonso Herrera Campos"
+    },
+    {
+      "inicio": 1524,
+      "fin": 1535,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "8.097.022-6"
+    },
+    {
+      "inicio": 1557,
+      "fin": 1568,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "43 989 3143"
+    }
+  ]
+}

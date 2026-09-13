@@ -1,0 +1,27 @@
+SOLICITUD DE INTERCONSULTA
+
+Origen: Hospital Clinico Valle Verde, comuna de La Florida
+Fecha de solicitud: 3 de diciembre de 2026
+Folio: HC-2020-975136
+
+DATOS DEL PACIENTE
+Nombre: Jose Miguel Valdes Urrutia
+RUN: 64035436
+Edad: 65 anos
+Direccion: Pasaje Los Canelos 3031, depto 42, Talagante
+Telefono: +56 9 7658 3532
+Prevision: Fonasa tramo B
+Ocupacion: contadora
+
+DERIVACION A: Cardiologia
+
+RESUMEN CLINICO
+Paciente con cuadro de dolor en fosa iliaca derecha en estudio. Se solicito hemoglobina glicosilada, cuyo resultado muestra
+alteraciones que requieren evaluacion por especialista. Actualmente en tratamiento con
+metformina 850 mg cada 12 horas.
+
+Se solicita evaluacion para descartar apendicitis aguda.
+
+Profesional solicitante: Dra. Jose Miguel Riquelme Toledo
+RUT profesional: 13952514-0
+Correo de contacto: jurrutia@correo-ejemplo.cl

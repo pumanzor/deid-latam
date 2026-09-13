@@ -1,0 +1,153 @@
+{
+  "id": "epicrisis_01",
+  "plantilla": "epicrisis",
+  "entidades": [
+    {
+      "inicio": 132,
+      "fin": 159,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital Regional del Maipo"
+    },
+    {
+      "inicio": 161,
+      "fin": 168,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "Chillan"
+    },
+    {
+      "inicio": 179,
+      "fin": 206,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Antonia Paz Riquelme Toledo"
+    },
+    {
+      "inicio": 212,
+      "fin": 223,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "8.439.167-0"
+    },
+    {
+      "inicio": 245,
+      "fin": 255,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "19/07/1949"
+    },
+    {
+      "inicio": 257,
+      "fin": 259,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "30"
+    },
+    {
+      "inicio": 277,
+      "fin": 318,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Pasaje El Peumo 2005, Poblacion Santa Ana"
+    },
+    {
+      "inicio": 320,
+      "fin": 327,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "Chillan"
+    },
+    {
+      "inicio": 350,
+      "fin": 365,
+      "tipo": "TELEFONO",
+      "rol": "paciente",
+      "texto": "+56 9 9928 7873"
+    },
+    {
+      "inicio": 374,
+      "fin": 399,
+      "tipo": "EMAIL",
+      "rol": "paciente",
+      "texto": "atoledo@correo-ejemplo.cl"
+    },
+    {
+      "inicio": 417,
+      "fin": 425,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "31429110"
+    },
+    {
+      "inicio": 437,
+      "fin": 451,
+      "tipo": "PREVISION",
+      "rol": "paciente",
+      "texto": "Fonasa tramo B"
+    },
+    {
+      "inicio": 470,
+      "fin": 480,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "07/06/2026"
+    },
+    {
+      "inicio": 499,
+      "fin": 509,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "13-02-2026"
+    },
+    {
+      "inicio": 541,
+      "fin": 543,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "30"
+    },
+    {
+      "inicio": 937,
+      "fin": 966,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Felipe Ignacio Herrera Campos"
+    },
+    {
+      "inicio": 1160,
+      "fin": 1179,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "26 de enero de 2026"
+    },
+    {
+      "inicio": 1227,
+      "fin": 1256,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Felipe Ignacio Herrera Campos"
+    },
+    {
+      "inicio": 1530,
+      "fin": 1559,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Felipe Ignacio Herrera Campos"
+    },
+    {
+      "inicio": 1565,
+      "fin": 1576,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "9.188.470-4"
+    },
+    {
+      "inicio": 1598,
+      "fin": 1609,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "61 570 4150"
+    }
+  ]
+}

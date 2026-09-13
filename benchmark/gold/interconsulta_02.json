@@ -1,0 +1,111 @@
+{
+  "id": "interconsulta_02",
+  "plantilla": "interconsulta",
+  "entidades": [
+    {
+      "inicio": 36,
+      "fin": 64,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital Clinico Valle Verde"
+    },
+    {
+      "inicio": 76,
+      "fin": 86,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "La Florida"
+    },
+    {
+      "inicio": 107,
+      "fin": 129,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "3 de diciembre de 2026"
+    },
+    {
+      "inicio": 137,
+      "fin": 151,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "HC-2020-975136"
+    },
+    {
+      "inicio": 180,
+      "fin": 206,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Jose Miguel Valdes Urrutia"
+    },
+    {
+      "inicio": 212,
+      "fin": 220,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "64035436"
+    },
+    {
+      "inicio": 227,
+      "fin": 229,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "65"
+    },
+    {
+      "inicio": 246,
+      "fin": 279,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Pasaje Los Canelos 3031, depto 42"
+    },
+    {
+      "inicio": 281,
+      "fin": 290,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "Talagante"
+    },
+    {
+      "inicio": 301,
+      "fin": 316,
+      "tipo": "TELEFONO",
+      "rol": "paciente",
+      "texto": "+56 9 7658 3532"
+    },
+    {
+      "inicio": 328,
+      "fin": 342,
+      "tipo": "PREVISION",
+      "rol": "paciente",
+      "texto": "Fonasa tramo B"
+    },
+    {
+      "inicio": 354,
+      "fin": 363,
+      "tipo": "PROFESION",
+      "rol": "paciente",
+      "texto": "contadora"
+    },
+    {
+      "inicio": 741,
+      "fin": 768,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Jose Miguel Riquelme Toledo"
+    },
+    {
+      "inicio": 786,
+      "fin": 796,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "13952514-0"
+    },
+    {
+      "inicio": 817,
+      "fin": 843,
+      "tipo": "EMAIL",
+      "rol": "profesional",
+      "texto": "jurrutia@correo-ejemplo.cl"
+    }
+  ]
+}

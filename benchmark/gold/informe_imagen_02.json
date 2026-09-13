@@ -1,0 +1,76 @@
+{
+  "id": "informe_imagen_02",
+  "plantilla": "informe_imagen",
+  "entidades": [
+    {
+      "inicio": 33,
+      "fin": 50,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Cesfam Los Aromos"
+    },
+    {
+      "inicio": 52,
+      "fin": 59,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "Quilpue"
+    },
+    {
+      "inicio": 70,
+      "fin": 93,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Ana Maria Vergara Lillo"
+    },
+    {
+      "inicio": 102,
+      "fin": 111,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "162691732"
+    },
+    {
+      "inicio": 129,
+      "fin": 139,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "18/02/2026"
+    },
+    {
+      "inicio": 159,
+      "fin": 167,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "30509175"
+    },
+    {
+      "inicio": 190,
+      "fin": 216,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Jose Miguel Munoz Alcayaga"
+    },
+    {
+      "inicio": 599,
+      "fin": 630,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Matias Nicolas Bustos Cifuentes"
+    },
+    {
+      "inicio": 651,
+      "fin": 675,
+      "tipo": "EMAIL",
+      "rol": "profesional",
+      "texto": "alillo@correo-ejemplo.cl"
+    },
+    {
+      "inicio": 678,
+      "fin": 689,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "75 630 7381"
+    }
+  ]
+}

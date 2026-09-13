@@ -1,0 +1,24 @@
+RECETA MEDICA
+
+Cesfam Los Aromos
+Avenida Las Torres 3655, Chillan
+Telefono: +56 9 2646 8269
+
+Fecha: 11-01-2026
+
+Paciente: Diego Alonso Vergara Lillo
+RUT: 17.577.579-k
+Edad: 37 anos
+Prevision: Fonasa tramo B
+
+Rp.
+1. enalapril 10 mg cada 12 horas por 30 dias
+2. losartan 50 mg cada 12 horas por 30 dias
+3. Paracetamol 500 mg cada 8 horas en caso de dolor
+
+Indicaciones: control en 30 dias. Dieta hiposodica. Consultar si presenta dolor abdominal en hipocondrio derecho.
+
+Dr. Cristian Andres Sepulveda Aguilera
+Medicina Interna
+RUT 23989394-5
+Correo dlillo@correo-ejemplo.cl

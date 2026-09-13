@@ -1,0 +1,111 @@
+{
+  "id": "interconsulta_04",
+  "plantilla": "interconsulta",
+  "entidades": [
+    {
+      "inicio": 36,
+      "fin": 56,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital San Gabriel"
+    },
+    {
+      "inicio": 68,
+      "fin": 79,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "Puente Alto"
+    },
+    {
+      "inicio": 100,
+      "fin": 123,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "10 de diciembre de 2026"
+    },
+    {
+      "inicio": 131,
+      "fin": 139,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "F3434-67"
+    },
+    {
+      "inicio": 168,
+      "fin": 199,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Daniela Alejandra Melo Sanhueza"
+    },
+    {
+      "inicio": 205,
+      "fin": 214,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "21251800K"
+    },
+    {
+      "inicio": 221,
+      "fin": 223,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "61"
+    },
+    {
+      "inicio": 240,
+      "fin": 270,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Calle Baquedano 4551, depto 52"
+    },
+    {
+      "inicio": 272,
+      "fin": 279,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "Chillan"
+    },
+    {
+      "inicio": 290,
+      "fin": 299,
+      "tipo": "TELEFONO",
+      "rol": "paciente",
+      "texto": "941348220"
+    },
+    {
+      "inicio": 311,
+      "fin": 337,
+      "tipo": "PREVISION",
+      "rol": "paciente",
+      "texto": "Isapre Colmena plan Basico"
+    },
+    {
+      "inicio": 349,
+      "fin": 365,
+      "tipo": "PROFESION",
+      "rol": "paciente",
+      "texto": "asistente social"
+    },
+    {
+      "inicio": 755,
+      "fin": 784,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Gonzalo Esteban Pizarro Leiva"
+    },
+    {
+      "inicio": 802,
+      "fin": 812,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "17954653-1"
+    },
+    {
+      "inicio": 833,
+      "fin": 860,
+      "tipo": "EMAIL",
+      "rol": "profesional",
+      "texto": "dsanhueza@correo-ejemplo.cl"
+    }
+  ]
+}

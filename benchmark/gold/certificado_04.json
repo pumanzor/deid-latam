@@ -1,0 +1,90 @@
+{
+  "id": "certificado_04",
+  "plantilla": "certificado",
+  "entidades": [
+    {
+      "inicio": 20,
+      "fin": 40,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital San Gabriel"
+    },
+    {
+      "inicio": 41,
+      "fin": 50,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "Melipilla"
+    },
+    {
+      "inicio": 52,
+      "fin": 72,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "4 de febrero de 2026"
+    },
+    {
+      "inicio": 97,
+      "fin": 125,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Camila Andrea Ovalle Ferrada"
+    },
+    {
+      "inicio": 131,
+      "fin": 142,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "9.552.130-4"
+    },
+    {
+      "inicio": 147,
+      "fin": 149,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "77"
+    },
+    {
+      "inicio": 181,
+      "fin": 203,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Calle Arturo Prat 4525"
+    },
+    {
+      "inicio": 215,
+      "fin": 220,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "Maipu"
+    },
+    {
+      "inicio": 246,
+      "fin": 256,
+      "tipo": "PROFESION",
+      "rol": "paciente",
+      "texto": "agricultor"
+    },
+    {
+      "inicio": 538,
+      "fin": 566,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Hector Manuel Fuentes Cortes"
+    },
+    {
+      "inicio": 587,
+      "fin": 599,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "21.419.761-8"
+    },
+    {
+      "inicio": 619,
+      "fin": 634,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "+56 9 5583 1536"
+    }
+  ]
+}

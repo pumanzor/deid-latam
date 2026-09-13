@@ -1,0 +1,76 @@
+{
+  "id": "informe_imagen_03",
+  "plantilla": "informe_imagen",
+  "entidades": [
+    {
+      "inicio": 33,
+      "fin": 60,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital Regional del Maipo"
+    },
+    {
+      "inicio": 62,
+      "fin": 69,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "Quilpue"
+    },
+    {
+      "inicio": 80,
+      "fin": 104,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Ana Maria Ovalle Ferrada"
+    },
+    {
+      "inicio": 113,
+      "fin": 122,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "249663646"
+    },
+    {
+      "inicio": 140,
+      "fin": 161,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "15 de febrero de 2026"
+    },
+    {
+      "inicio": 181,
+      "fin": 189,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "F5460-74"
+    },
+    {
+      "inicio": 212,
+      "fin": 246,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Sebastian Ignacio Bustos Cifuentes"
+    },
+    {
+      "inicio": 656,
+      "fin": 680,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Ana Maria Ovalle Ferrada"
+    },
+    {
+      "inicio": 701,
+      "fin": 727,
+      "tipo": "EMAIL",
+      "rol": "profesional",
+      "texto": "aferrada@correo-ejemplo.cl"
+    },
+    {
+      "inicio": 730,
+      "fin": 745,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "+56 9 8078 6280"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+EPICRISIS DE ALTA
+(documento ficticio generado para evaluacion. Personas, establecimiento y direccion inventados)
+
+Establecimiento: Hospital Clinico Valle Verde, Rancagua
+Paciente: Luis Alberto Sepulveda Aguilera
+RUT: 223959393
+Fecha de nacimiento: 20-08-2025 (25 anos)
+Domicilio: Pasaje El Peumo 2287, Melipilla
+Telefono de contacto: 62 823 4920
+Correo: laguilera@correo-ejemplo.cl
+Ficha clinica N: 83932360
+Prevision: Fonasa tramo A
+Fecha de ingreso: 08/02/2026    Fecha de alta: 21 de marzo de 2026
+
+MOTIVO DE INGRESO
+Paciente de 25 anos consulta en el servicio de urgencia por dolor lumbar y disuria de
+48 horas de evolucion, asociado a nauseas, vomitos y fiebre hasta 38,5 C.
+
+ANTECEDENTES
+Hipertension arterial en tratamiento con enalapril 10 mg cada 12 horas. Diabetes mellitus tipo 2 en tratamiento
+con losartan 50 mg cada 12 horas. Alergia a penicilina.
+
+EVOLUCION
+creatinina plasmatica informada por el Dr. Rosa Elena Melo Sanhueza muestra hallazgos compatibles con
+pielonefritis aguda. Se inicia ceftriaxona 1 g cada 24 horas endovenoso y metronidazol 500 mg cada
+8 horas.
+
+Se realiza tratamiento antibiotico endovenoso el 23-05-2026 por el equipo de Traumatologia a cargo
+del Dr. Rosa Elena Melo Sanhueza. Evolucion postoperatoria favorable, con buena tolerancia oral
+al segundo dia.
+
+INDICACIONES AL ALTA
+Paracetamol 1 g cada 8 horas por 5 dias. Mantener enalapril 10 mg cada 12 horas en dosis habitual.
+Control en 10 dias en policlinico de Traumatologia.
+
+Medico tratante: Dr. Rosa Elena Melo Sanhueza, RUT 20845066-2
+Contacto secretaria: 34 813 9327

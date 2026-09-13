@@ -1,0 +1,90 @@
+{
+  "id": "certificado_02",
+  "plantilla": "certificado",
+  "entidades": [
+    {
+      "inicio": 20,
+      "fin": 40,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital San Gabriel"
+    },
+    {
+      "inicio": 41,
+      "fin": 45,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "Buin"
+    },
+    {
+      "inicio": 47,
+      "fin": 57,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "28-07-2026"
+    },
+    {
+      "inicio": 82,
+      "fin": 111,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Maria Fernanda Carrasco Bravo"
+    },
+    {
+      "inicio": 117,
+      "fin": 126,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "123625684"
+    },
+    {
+      "inicio": 131,
+      "fin": 133,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "74"
+    },
+    {
+      "inicio": 165,
+      "fin": 194,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Camino El Roble 337, depto 96"
+    },
+    {
+      "inicio": 206,
+      "fin": 210,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "Buin"
+    },
+    {
+      "inicio": 236,
+      "fin": 257,
+      "tipo": "PROFESION",
+      "rol": "paciente",
+      "texto": "tecnico en enfermeria"
+    },
+    {
+      "inicio": 546,
+      "fin": 573,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Luis Alberto Tapia Sandoval"
+    },
+    {
+      "inicio": 589,
+      "fin": 601,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "22.922.215-5"
+    },
+    {
+      "inicio": 621,
+      "fin": 630,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "921267237"
+    }
+  ]
+}

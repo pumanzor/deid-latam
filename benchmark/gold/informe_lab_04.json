@@ -1,0 +1,69 @@
+{
+  "id": "informe_lab_04",
+  "plantilla": "informe_lab",
+  "entidades": [
+    {
+      "inicio": 31,
+      "fin": 65,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital Provincial Las Vertientes"
+    },
+    {
+      "inicio": 101,
+      "fin": 133,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Daniela Alejandra Fuentes Cortes"
+    },
+    {
+      "inicio": 139,
+      "fin": 150,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "8.345.769-4"
+    },
+    {
+      "inicio": 172,
+      "fin": 182,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "01-12-1963"
+    },
+    {
+      "inicio": 195,
+      "fin": 203,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "30718012"
+    },
+    {
+      "inicio": 230,
+      "fin": 251,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "11 de octubre de 2026"
+    },
+    {
+      "inicio": 310,
+      "fin": 334,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Ana Maria Munoz Alcayaga"
+    },
+    {
+      "inicio": 801,
+      "fin": 828,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Diego Alonso Valdes Urrutia"
+    },
+    {
+      "inicio": 840,
+      "fin": 851,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "67 977 8994"
+    }
+  ]
+}

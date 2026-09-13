@@ -1,0 +1,111 @@
+{
+  "id": "interconsulta_01",
+  "plantilla": "interconsulta",
+  "entidades": [
+    {
+      "inicio": 36,
+      "fin": 56,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Clinica Santa Amelia"
+    },
+    {
+      "inicio": 68,
+      "fin": 72,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "Buin"
+    },
+    {
+      "inicio": 93,
+      "fin": 103,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "09/08/2026"
+    },
+    {
+      "inicio": 111,
+      "fin": 119,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "F5374-99"
+    },
+    {
+      "inicio": 148,
+      "fin": 173,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Ana Maria Riquelme Toledo"
+    },
+    {
+      "inicio": 179,
+      "fin": 188,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "7395870-9"
+    },
+    {
+      "inicio": 195,
+      "fin": 197,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "87"
+    },
+    {
+      "inicio": 214,
+      "fin": 257,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Pasaje El Peumo 1438, Poblacion El Esfuerzo"
+    },
+    {
+      "inicio": 259,
+      "fin": 266,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "Chillan"
+    },
+    {
+      "inicio": 277,
+      "fin": 286,
+      "tipo": "TELEFONO",
+      "rol": "paciente",
+      "texto": "917507864"
+    },
+    {
+      "inicio": 298,
+      "fin": 312,
+      "tipo": "PREVISION",
+      "rol": "paciente",
+      "texto": "Fonasa tramo C"
+    },
+    {
+      "inicio": 324,
+      "fin": 355,
+      "tipo": "PROFESION",
+      "rol": "paciente",
+      "texto": "conductor de transporte escolar"
+    },
+    {
+      "inicio": 753,
+      "fin": 783,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Javiera Ignacia Munoz Alcayaga"
+    },
+    {
+      "inicio": 801,
+      "fin": 813,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "12.134.562-5"
+    },
+    {
+      "inicio": 834,
+      "fin": 859,
+      "tipo": "EMAIL",
+      "rol": "profesional",
+      "texto": "atoledo@correo-ejemplo.cl"
+    }
+  ]
+}

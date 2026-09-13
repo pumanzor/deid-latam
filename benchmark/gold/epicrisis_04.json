@@ -1,0 +1,153 @@
+{
+  "id": "epicrisis_04",
+  "plantilla": "epicrisis",
+  "entidades": [
+    {
+      "inicio": 132,
+      "fin": 160,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital Clinico Valle Verde"
+    },
+    {
+      "inicio": 162,
+      "fin": 170,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "Rancagua"
+    },
+    {
+      "inicio": 181,
+      "fin": 212,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Luis Alberto Sepulveda Aguilera"
+    },
+    {
+      "inicio": 218,
+      "fin": 227,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "223959393"
+    },
+    {
+      "inicio": 249,
+      "fin": 259,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "20-08-2025"
+    },
+    {
+      "inicio": 261,
+      "fin": 263,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "25"
+    },
+    {
+      "inicio": 281,
+      "fin": 301,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Pasaje El Peumo 2287"
+    },
+    {
+      "inicio": 303,
+      "fin": 312,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "Melipilla"
+    },
+    {
+      "inicio": 335,
+      "fin": 346,
+      "tipo": "TELEFONO",
+      "rol": "paciente",
+      "texto": "62 823 4920"
+    },
+    {
+      "inicio": 355,
+      "fin": 382,
+      "tipo": "EMAIL",
+      "rol": "paciente",
+      "texto": "laguilera@correo-ejemplo.cl"
+    },
+    {
+      "inicio": 400,
+      "fin": 408,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "83932360"
+    },
+    {
+      "inicio": 420,
+      "fin": 434,
+      "tipo": "PREVISION",
+      "rol": "paciente",
+      "texto": "Fonasa tramo A"
+    },
+    {
+      "inicio": 453,
+      "fin": 463,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "08/02/2026"
+    },
+    {
+      "inicio": 482,
+      "fin": 501,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "21 de marzo de 2026"
+    },
+    {
+      "inicio": 533,
+      "fin": 535,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "25"
+    },
+    {
+      "inicio": 917,
+      "fin": 941,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Rosa Elena Melo Sanhueza"
+    },
+    {
+      "inicio": 1134,
+      "fin": 1144,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "23-05-2026"
+    },
+    {
+      "inicio": 1192,
+      "fin": 1216,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Rosa Elena Melo Sanhueza"
+    },
+    {
+      "inicio": 1491,
+      "fin": 1515,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Rosa Elena Melo Sanhueza"
+    },
+    {
+      "inicio": 1521,
+      "fin": 1531,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "20845066-2"
+    },
+    {
+      "inicio": 1553,
+      "fin": 1564,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "34 813 9327"
+    }
+  ]
+}

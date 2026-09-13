@@ -1,0 +1,37 @@
+EPICRISIS DE ALTA
+(documento ficticio generado para evaluacion. Personas, establecimiento y direccion inventados)
+
+Establecimiento: Clinica Cordillera, Talagante
+Paciente: Javiera Ignacia Bustos Cifuentes
+RUT: 177213640
+Fecha de nacimiento: 25/07/1977 (79 anos)
+Domicilio: Pasaje Los Canelos 4518, depto 55, Villa El Roble, Curico
+Telefono de contacto: +56 9 1659 1508
+Correo: jcifuentes@correo-ejemplo.cl
+Ficha clinica N: HC-2021-596564
+Prevision: Fonasa tramo D
+Fecha de ingreso: 23/05/2026    Fecha de alta: 20/10/2026
+
+MOTIVO DE INGRESO
+Paciente de 79 anos consulta en el servicio de urgencia por tos productiva y fiebre de
+48 horas de evolucion, asociado a nauseas, vomitos y fiebre hasta 38,5 C.
+
+ANTECEDENTES
+Hipertension arterial en tratamiento con losartan 50 mg cada 12 horas. Diabetes mellitus tipo 2 en tratamiento
+con levotiroxina 75 mcg cada 24 horas. Alergia a penicilina.
+
+EVOLUCION
+ecografia abdominal informada por el Dr. Rosa Elena Fuentes Cortes muestra hallazgos compatibles con
+neumonia adquirida en la comunidad. Se inicia ceftriaxona 1 g cada 24 horas endovenoso y metronidazol 500 mg cada
+8 horas.
+
+Se realiza tratamiento antibiotico endovenoso el 19 de enero de 2026 por el equipo de Nefrologia a cargo
+del Dr. Rosa Elena Fuentes Cortes. Evolucion postoperatoria favorable, con buena tolerancia oral
+al segundo dia.
+
+INDICACIONES AL ALTA
+Paracetamol 1 g cada 8 horas por 5 dias. Mantener losartan 50 mg cada 12 horas en dosis habitual.
+Control en 10 dias en policlinico de Nefrologia.
+
+Medico tratante: Dr. Rosa Elena Fuentes Cortes, RUT 17.593.211-9
+Contacto secretaria: +56 9 4249 2245

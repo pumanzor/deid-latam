@@ -1,0 +1,23 @@
+DATO DE ATENCION DE URGENCIA
+
+Hospital Clinico Valle Verde - Servicio de Urgencia
+Numero de atencion: HC-2026-907451
+Fecha y hora de ingreso: 26/12/2026, 03:42 hrs
+
+IDENTIFICACION
+Nombre completo: Antonia Paz Tapia Sandoval
+RUT: 23703434-1
+Edad: 34 anos
+Domicilio: Camino El Roble 1192, San Bernardo
+Telefono: 992228802
+Correo: asandoval@correo-ejemplo.cl
+Prevision: Isapre Banmedica plan 4B
+Acompanante: Matias Nicolas Bustos Cifuentes, telefono 38 969 5050
+
+CATEGORIZACION: C3
+
+MOTIVO DE CONSULTA
+Paciente acude por cefalea occipital y vision borrosa de inicio subito. Se solicita radiografia de torax.
+Evaluado por Dr. Valentina Soledad Melo Sanhueza, quien indica manejo por crisis hipertensiva.
+
+DESTINO: hospitalizacion en Nefrologia

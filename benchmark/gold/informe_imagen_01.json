@@ -1,0 +1,76 @@
+{
+  "id": "informe_imagen_01",
+  "plantilla": "informe_imagen",
+  "entidades": [
+    {
+      "inicio": 33,
+      "fin": 60,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital Regional del Maipo"
+    },
+    {
+      "inicio": 62,
+      "fin": 66,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "Buin"
+    },
+    {
+      "inicio": 77,
+      "fin": 102,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Juan Pablo Ovalle Ferrada"
+    },
+    {
+      "inicio": 111,
+      "fin": 122,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "5.072.322-4"
+    },
+    {
+      "inicio": 140,
+      "fin": 150,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "09-08-2026"
+    },
+    {
+      "inicio": 170,
+      "fin": 184,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "HC-2025-865990"
+    },
+    {
+      "inicio": 207,
+      "fin": 234,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Rosa Elena Navarro Espinoza"
+    },
+    {
+      "inicio": 644,
+      "fin": 672,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Camila Andrea Valdes Urrutia"
+    },
+    {
+      "inicio": 693,
+      "fin": 719,
+      "tipo": "EMAIL",
+      "rol": "profesional",
+      "texto": "jferrada@correo-ejemplo.cl"
+    },
+    {
+      "inicio": 722,
+      "fin": 733,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "25 798 8811"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "consentimiento_01",
+  "plantilla": "consentimiento",
+  "entidades": [
+    {
+      "inicio": 62,
+      "fin": 89,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital Regional del Maipo"
+    },
+    {
+      "inicio": 97,
+      "fin": 119,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "5 de noviembre de 2026"
+    },
+    {
+      "inicio": 125,
+      "fin": 156,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Sebastian Ignacio Rojas Miranda"
+    },
+    {
+      "inicio": 178,
+      "fin": 187,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "105407416"
+    },
+    {
+      "inicio": 204,
+      "fin": 224,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Calle Baquedano 3566"
+    },
+    {
+      "inicio": 236,
+      "fin": 243,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "Chillan"
+    },
+    {
+      "inicio": 254,
+      "fin": 263,
+      "tipo": "TELEFONO",
+      "rol": "paciente",
+      "texto": "963551839"
+    },
+    {
+      "inicio": 306,
+      "fin": 338,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Cristian Andres Bustos Cifuentes"
+    },
+    {
+      "inicio": 577,
+      "fin": 587,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "04/04/2026"
+    },
+    {
+      "inicio": 624,
+      "fin": 655,
+      "tipo": "NOMBRE",
+      "rol": "tercero",
+      "texto": "Daniela Alejandra Gonzalez Soto"
+    },
+    {
+      "inicio": 666,
+      "fin": 681,
+      "tipo": "TELEFONO",
+      "rol": "tercero",
+      "texto": "+56 9 4770 4608"
+    },
+    {
+      "inicio": 746,
+      "fin": 778,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Cristian Andres Bustos Cifuentes"
+    },
+    {
+      "inicio": 784,
+      "fin": 795,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "7.261.579-4"
+    },
+    {
+      "inicio": 803,
+      "fin": 811,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "19510312"
+    }
+  ]
+}

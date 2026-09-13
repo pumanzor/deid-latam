@@ -1,0 +1,23 @@
+DATO DE ATENCION DE URGENCIA
+
+Cesfam Los Aromos - Servicio de Urgencia
+Numero de atencion: HC-2024-940886
+Fecha y hora de ingreso: 20 de mayo de 2026, 03:42 hrs
+
+IDENTIFICACION
+Nombre completo: Sebastian Ignacio Vergara Lillo
+RUT: 8.260.280-1
+Edad: 58 anos
+Domicilio: Camino El Roble 373, La Florida
+Telefono: 33 405 3165
+Correo: slillo@correo-ejemplo.cl
+Prevision: Fonasa tramo C
+Acompanante: Cristian Andres Melo Sanhueza, telefono 74 693 5835
+
+CATEGORIZACION: C3
+
+MOTIVO DE CONSULTA
+Paciente acude por poliuria, polidipsia y decaimiento de inicio subito. Se solicita hemoglobina glicosilada.
+Evaluado por Dr. Daniela Alejandra Fuentes Cortes, quien indica manejo por descompensacion diabetica.
+
+DESTINO: hospitalizacion en Cardiologia

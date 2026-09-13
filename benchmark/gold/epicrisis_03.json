@@ -1,0 +1,153 @@
+{
+  "id": "epicrisis_03",
+  "plantilla": "epicrisis",
+  "entidades": [
+    {
+      "inicio": 132,
+      "fin": 150,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Clinica Cordillera"
+    },
+    {
+      "inicio": 152,
+      "fin": 161,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "Talagante"
+    },
+    {
+      "inicio": 172,
+      "fin": 204,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Javiera Ignacia Bustos Cifuentes"
+    },
+    {
+      "inicio": 210,
+      "fin": 219,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "177213640"
+    },
+    {
+      "inicio": 241,
+      "fin": 251,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "25/07/1977"
+    },
+    {
+      "inicio": 253,
+      "fin": 255,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "79"
+    },
+    {
+      "inicio": 273,
+      "fin": 322,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Pasaje Los Canelos 4518, depto 55, Villa El Roble"
+    },
+    {
+      "inicio": 324,
+      "fin": 330,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "Curico"
+    },
+    {
+      "inicio": 353,
+      "fin": 368,
+      "tipo": "TELEFONO",
+      "rol": "paciente",
+      "texto": "+56 9 1659 1508"
+    },
+    {
+      "inicio": 377,
+      "fin": 405,
+      "tipo": "EMAIL",
+      "rol": "paciente",
+      "texto": "jcifuentes@correo-ejemplo.cl"
+    },
+    {
+      "inicio": 423,
+      "fin": 437,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "HC-2021-596564"
+    },
+    {
+      "inicio": 449,
+      "fin": 463,
+      "tipo": "PREVISION",
+      "rol": "paciente",
+      "texto": "Fonasa tramo D"
+    },
+    {
+      "inicio": 482,
+      "fin": 492,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "23/05/2026"
+    },
+    {
+      "inicio": 511,
+      "fin": 521,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "20/10/2026"
+    },
+    {
+      "inicio": 553,
+      "fin": 555,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "79"
+    },
+    {
+      "inicio": 940,
+      "fin": 965,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Rosa Elena Fuentes Cortes"
+    },
+    {
+      "inicio": 1173,
+      "fin": 1192,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "19 de enero de 2026"
+    },
+    {
+      "inicio": 1237,
+      "fin": 1262,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Rosa Elena Fuentes Cortes"
+    },
+    {
+      "inicio": 1533,
+      "fin": 1558,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Rosa Elena Fuentes Cortes"
+    },
+    {
+      "inicio": 1564,
+      "fin": 1576,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "17.593.211-9"
+    },
+    {
+      "inicio": 1598,
+      "fin": 1613,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "+56 9 4249 2245"
+    }
+  ]
+}

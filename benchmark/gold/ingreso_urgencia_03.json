@@ -1,0 +1,104 @@
+{
+  "id": "ingreso_urgencia_03",
+  "plantilla": "ingreso_urgencia",
+  "entidades": [
+    {
+      "inicio": 30,
+      "fin": 58,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital Clinico Valle Verde"
+    },
+    {
+      "inicio": 102,
+      "fin": 116,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "HC-2024-876039"
+    },
+    {
+      "inicio": 142,
+      "fin": 152,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "09/11/2026"
+    },
+    {
+      "inicio": 197,
+      "fin": 222,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Jose Miguel Vergara Lillo"
+    },
+    {
+      "inicio": 228,
+      "fin": 238,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "13048539-1"
+    },
+    {
+      "inicio": 245,
+      "fin": 247,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "89"
+    },
+    {
+      "inicio": 264,
+      "fin": 297,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Avenida Las Torres 1382, depto 68"
+    },
+    {
+      "inicio": 299,
+      "fin": 308,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "Melipilla"
+    },
+    {
+      "inicio": 319,
+      "fin": 330,
+      "tipo": "TELEFONO",
+      "rol": "paciente",
+      "texto": "40 923 5632"
+    },
+    {
+      "inicio": 339,
+      "fin": 363,
+      "tipo": "EMAIL",
+      "rol": "paciente",
+      "texto": "jlillo@correo-ejemplo.cl"
+    },
+    {
+      "inicio": 375,
+      "fin": 399,
+      "tipo": "PREVISION",
+      "rol": "paciente",
+      "texto": "Isapre Banmedica plan 4B"
+    },
+    {
+      "inicio": 413,
+      "fin": 439,
+      "tipo": "NOMBRE",
+      "rol": "tercero",
+      "texto": "Luis Alberto Rojas Miranda"
+    },
+    {
+      "inicio": 450,
+      "fin": 459,
+      "tipo": "TELEFONO",
+      "rol": "tercero",
+      "texto": "993893865"
+    },
+    {
+      "inicio": 612,
+      "fin": 642,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Francisca Belen Valdes Urrutia"
+    }
+  ]
+}

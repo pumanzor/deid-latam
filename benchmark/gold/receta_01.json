@@ -1,0 +1,90 @@
+{
+  "id": "receta_01",
+  "plantilla": "receta",
+  "entidades": [
+    {
+      "inicio": 15,
+      "fin": 49,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital Provincial Las Vertientes"
+    },
+    {
+      "inicio": 50,
+      "fin": 73,
+      "tipo": "DIRECCION",
+      "rol": "institucion",
+      "texto": "Pasaje Los Canelos 2257"
+    },
+    {
+      "inicio": 75,
+      "fin": 87,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "San Bernardo"
+    },
+    {
+      "inicio": 98,
+      "fin": 113,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "+56 9 2743 5889"
+    },
+    {
+      "inicio": 122,
+      "fin": 141,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "12 de marzo de 2026"
+    },
+    {
+      "inicio": 153,
+      "fin": 179,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Jose Miguel Zuniga Paredes"
+    },
+    {
+      "inicio": 185,
+      "fin": 197,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "15.876.872-0"
+    },
+    {
+      "inicio": 204,
+      "fin": 206,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "21"
+    },
+    {
+      "inicio": 223,
+      "fin": 237,
+      "tipo": "PREVISION",
+      "rol": "paciente",
+      "texto": "Fonasa tramo A"
+    },
+    {
+      "inicio": 509,
+      "fin": 540,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Constanza Beatriz Vergara Lillo"
+    },
+    {
+      "inicio": 561,
+      "fin": 573,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "13.034.686-3"
+    },
+    {
+      "inicio": 581,
+      "fin": 607,
+      "tipo": "EMAIL",
+      "rol": "profesional",
+      "texto": "jparedes@correo-ejemplo.cl"
+    }
+  ]
+}

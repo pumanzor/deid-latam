@@ -1,0 +1,104 @@
+{
+  "id": "ingreso_urgencia_04",
+  "plantilla": "ingreso_urgencia",
+  "entidades": [
+    {
+      "inicio": 30,
+      "fin": 47,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Cesfam Los Aromos"
+    },
+    {
+      "inicio": 91,
+      "fin": 105,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "HC-2024-940886"
+    },
+    {
+      "inicio": 131,
+      "fin": 149,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "20 de mayo de 2026"
+    },
+    {
+      "inicio": 194,
+      "fin": 225,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Sebastian Ignacio Vergara Lillo"
+    },
+    {
+      "inicio": 231,
+      "fin": 242,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "8.260.280-1"
+    },
+    {
+      "inicio": 249,
+      "fin": 251,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "58"
+    },
+    {
+      "inicio": 268,
+      "fin": 287,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Camino El Roble 373"
+    },
+    {
+      "inicio": 289,
+      "fin": 299,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "La Florida"
+    },
+    {
+      "inicio": 310,
+      "fin": 321,
+      "tipo": "TELEFONO",
+      "rol": "paciente",
+      "texto": "33 405 3165"
+    },
+    {
+      "inicio": 330,
+      "fin": 354,
+      "tipo": "EMAIL",
+      "rol": "paciente",
+      "texto": "slillo@correo-ejemplo.cl"
+    },
+    {
+      "inicio": 366,
+      "fin": 380,
+      "tipo": "PREVISION",
+      "rol": "paciente",
+      "texto": "Fonasa tramo C"
+    },
+    {
+      "inicio": 394,
+      "fin": 423,
+      "tipo": "NOMBRE",
+      "rol": "tercero",
+      "texto": "Cristian Andres Melo Sanhueza"
+    },
+    {
+      "inicio": 434,
+      "fin": 445,
+      "tipo": "TELEFONO",
+      "rol": "tercero",
+      "texto": "74 693 5835"
+    },
+    {
+      "inicio": 612,
+      "fin": 644,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Daniela Alejandra Fuentes Cortes"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+RECETA MEDICA
+
+Clinica Santa Amelia
+Pasaje Las Acacias 4823, depto 16, Puente Alto
+Telefono: 45 641 2146
+
+Fecha: 11 de octubre de 2026
+
+Paciente: Daniela Alejandra Sepulveda Aguilera
+RUT: 91817314
+Edad: 83 anos
+Prevision: Fonasa tramo C
+
+Rp.
+1. enalapril 10 mg cada 12 horas por 30 dias
+2. levotiroxina 75 mcg cada 24 horas por 30 dias
+3. Paracetamol 500 mg cada 8 horas en caso de dolor
+
+Indicaciones: control en 30 dias. Dieta hiposodica. Consultar si presenta dolor abdominal en hipocondrio derecho.
+
+Dr. Diego Alonso Sepulveda Aguilera
+Broncopulmonar
+RUT 15.944.882-7
+Correo daguilera@correo-ejemplo.cl

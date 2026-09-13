@@ -1,0 +1,90 @@
+{
+  "id": "receta_04",
+  "plantilla": "receta",
+  "entidades": [
+    {
+      "inicio": 15,
+      "fin": 32,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Cesfam Los Aromos"
+    },
+    {
+      "inicio": 33,
+      "fin": 56,
+      "tipo": "DIRECCION",
+      "rol": "institucion",
+      "texto": "Avenida Las Torres 3655"
+    },
+    {
+      "inicio": 58,
+      "fin": 65,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "Chillan"
+    },
+    {
+      "inicio": 76,
+      "fin": 91,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "+56 9 2646 8269"
+    },
+    {
+      "inicio": 100,
+      "fin": 110,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "11-01-2026"
+    },
+    {
+      "inicio": 122,
+      "fin": 148,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Diego Alonso Vergara Lillo"
+    },
+    {
+      "inicio": 154,
+      "fin": 166,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "17.577.579-k"
+    },
+    {
+      "inicio": 173,
+      "fin": 175,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "37"
+    },
+    {
+      "inicio": 192,
+      "fin": 206,
+      "tipo": "PREVISION",
+      "rol": "paciente",
+      "texto": "Fonasa tramo B"
+    },
+    {
+      "inicio": 473,
+      "fin": 507,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Cristian Andres Sepulveda Aguilera"
+    },
+    {
+      "inicio": 529,
+      "fin": 539,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "23989394-5"
+    },
+    {
+      "inicio": 547,
+      "fin": 571,
+      "tipo": "EMAIL",
+      "rol": "profesional",
+      "texto": "dlillo@correo-ejemplo.cl"
+    }
+  ]
+}

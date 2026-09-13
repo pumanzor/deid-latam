@@ -1,0 +1,90 @@
+{
+  "id": "certificado_01",
+  "plantilla": "certificado",
+  "entidades": [
+    {
+      "inicio": 20,
+      "fin": 40,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Clinica Santa Amelia"
+    },
+    {
+      "inicio": 41,
+      "fin": 47,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "Curico"
+    },
+    {
+      "inicio": 49,
+      "fin": 59,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "28/04/2026"
+    },
+    {
+      "inicio": 84,
+      "fin": 108,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Maria Jose Rojas Miranda"
+    },
+    {
+      "inicio": 114,
+      "fin": 124,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "24115134-4"
+    },
+    {
+      "inicio": 129,
+      "fin": 131,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "24"
+    },
+    {
+      "inicio": 163,
+      "fin": 186,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Pasaje Los Maitenes 771"
+    },
+    {
+      "inicio": 198,
+      "fin": 210,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "San Bernardo"
+    },
+    {
+      "inicio": 236,
+      "fin": 245,
+      "tipo": "PROFESION",
+      "rol": "paciente",
+      "texto": "contadora"
+    },
+    {
+      "inicio": 531,
+      "fin": 565,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Valentina Soledad Navarro Espinoza"
+    },
+    {
+      "inicio": 582,
+      "fin": 592,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "15542261-0"
+    },
+    {
+      "inicio": 612,
+      "fin": 621,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "927566185"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+EPICRISIS DE ALTA
+(documento ficticio generado para evaluacion. Personas, establecimiento y direccion inventados)
+
+Establecimiento: Hospital Regional del Maipo, Chillan
+Paciente: Antonia Paz Riquelme Toledo
+RUT: 8.439.167-0
+Fecha de nacimiento: 19/07/1949 (30 anos)
+Domicilio: Pasaje El Peumo 2005, Poblacion Santa Ana, Chillan
+Telefono de contacto: +56 9 9928 7873
+Correo: atoledo@correo-ejemplo.cl
+Ficha clinica N: 31429110
+Prevision: Fonasa tramo B
+Fecha de ingreso: 07/06/2026    Fecha de alta: 13-02-2026
+
+MOTIVO DE INGRESO
+Paciente de 30 anos consulta en el servicio de urgencia por poliuria, polidipsia y decaimiento de
+48 horas de evolucion, asociado a nauseas, vomitos y fiebre hasta 38,5 C.
+
+ANTECEDENTES
+Hipertension arterial en tratamiento con losartan 50 mg cada 12 horas. Diabetes mellitus tipo 2 en tratamiento
+con metformina 850 mg cada 12 horas. Alergia a penicilina.
+
+EVOLUCION
+ecografia abdominal informada por el Dr. Felipe Ignacio Herrera Campos muestra hallazgos compatibles con
+descompensacion diabetica. Se inicia ceftriaxona 1 g cada 24 horas endovenoso y metronidazol 500 mg cada
+8 horas.
+
+Se realiza hidratacion e insulinoterapia el 26 de enero de 2026 por el equipo de Traumatologia a cargo
+del Dr. Felipe Ignacio Herrera Campos. Evolucion postoperatoria favorable, con buena tolerancia oral
+al segundo dia.
+
+INDICACIONES AL ALTA
+Paracetamol 1 g cada 8 horas por 5 dias. Mantener losartan 50 mg cada 12 horas en dosis habitual.
+Control en 10 dias en policlinico de Traumatologia.
+
+Medico tratante: Dr. Felipe Ignacio Herrera Campos, RUT 9.188.470-4
+Contacto secretaria: 61 570 4150

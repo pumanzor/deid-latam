@@ -1,0 +1,23 @@
+DATO DE ATENCION DE URGENCIA
+
+Cesfam Los Aromos - Servicio de Urgencia
+Numero de atencion: HC-2026-595948
+Fecha y hora de ingreso: 22-07-2026, 03:42 hrs
+
+IDENTIFICACION
+Nombre completo: Patricio Hernan Araya Quintana
+RUT: 18.794.303-5
+Edad: 25 anos
+Domicilio: Avenida Las Torres 596, Villa El Roble, Rancagua
+Telefono: +56 9 4139 4116
+Correo: pquintana@correo-ejemplo.cl
+Prevision: Fonasa tramo C
+Acompanante: Luis Alberto Riquelme Toledo, telefono +56 9 2235 8260
+
+CATEGORIZACION: C3
+
+MOTIVO DE CONSULTA
+Paciente acude por poliuria, polidipsia y decaimiento de inicio subito. Se solicita perfil bioquimico.
+Evaluado por Dr. Ana Maria Riquelme Toledo, quien indica manejo por descompensacion diabetica.
+
+DESTINO: hospitalizacion en Cardiologia

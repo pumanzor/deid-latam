@@ -1,0 +1,111 @@
+{
+  "id": "interconsulta_03",
+  "plantilla": "interconsulta",
+  "entidades": [
+    {
+      "inicio": 36,
+      "fin": 54,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Clinica Cordillera"
+    },
+    {
+      "inicio": 66,
+      "fin": 78,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "San Bernardo"
+    },
+    {
+      "inicio": 99,
+      "fin": 109,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "14/11/2026"
+    },
+    {
+      "inicio": 117,
+      "fin": 125,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "55799273"
+    },
+    {
+      "inicio": 154,
+      "fin": 184,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Rodrigo Antonio Ovalle Ferrada"
+    },
+    {
+      "inicio": 190,
+      "fin": 201,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "8.541.296-5"
+    },
+    {
+      "inicio": 208,
+      "fin": 210,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "65"
+    },
+    {
+      "inicio": 227,
+      "fin": 247,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Camino El Roble 1353"
+    },
+    {
+      "inicio": 249,
+      "fin": 255,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "Curico"
+    },
+    {
+      "inicio": 266,
+      "fin": 275,
+      "tipo": "TELEFONO",
+      "rol": "paciente",
+      "texto": "974893936"
+    },
+    {
+      "inicio": 287,
+      "fin": 311,
+      "tipo": "PREVISION",
+      "rol": "paciente",
+      "texto": "Isapre Banmedica plan 4B"
+    },
+    {
+      "inicio": 323,
+      "fin": 334,
+      "tipo": "PROFESION",
+      "rol": "paciente",
+      "texto": "comerciante"
+    },
+    {
+      "inicio": 728,
+      "fin": 752,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Ana Maria Herrera Campos"
+    },
+    {
+      "inicio": 770,
+      "fin": 780,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "20126405-7"
+    },
+    {
+      "inicio": 801,
+      "fin": 827,
+      "tipo": "EMAIL",
+      "rol": "profesional",
+      "texto": "rferrada@correo-ejemplo.cl"
+    }
+  ]
+}

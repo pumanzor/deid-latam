@@ -1,0 +1,23 @@
+DATO DE ATENCION DE URGENCIA
+
+Hospital Clinico Valle Verde - Servicio de Urgencia
+Numero de atencion: HC-2024-876039
+Fecha y hora de ingreso: 09/11/2026, 03:42 hrs
+
+IDENTIFICACION
+Nombre completo: Jose Miguel Vergara Lillo
+RUT: 13048539-1
+Edad: 89 anos
+Domicilio: Avenida Las Torres 1382, depto 68, Melipilla
+Telefono: 40 923 5632
+Correo: jlillo@correo-ejemplo.cl
+Prevision: Isapre Banmedica plan 4B
+Acompanante: Luis Alberto Rojas Miranda, telefono 993893865
+
+CATEGORIZACION: C3
+
+MOTIVO DE CONSULTA
+Paciente acude por dolor lumbar y disuria de inicio subito. Se solicita creatinina plasmatica.
+Evaluado por Dr. Francisca Belen Valdes Urrutia, quien indica manejo por pielonefritis aguda.
+
+DESTINO: hospitalizacion en Gastroenterologia

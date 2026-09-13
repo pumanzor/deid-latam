@@ -1,0 +1,104 @@
+{
+  "id": "consentimiento_04",
+  "plantilla": "consentimiento",
+  "entidades": [
+    {
+      "inicio": 62,
+      "fin": 96,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital Provincial Las Vertientes"
+    },
+    {
+      "inicio": 104,
+      "fin": 114,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "19-03-2026"
+    },
+    {
+      "inicio": 120,
+      "fin": 150,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Felipe Ignacio Riquelme Toledo"
+    },
+    {
+      "inicio": 172,
+      "fin": 184,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "13.522.065-5"
+    },
+    {
+      "inicio": 201,
+      "fin": 246,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Avenida Los Aromos 176, Villa Los Presidentes"
+    },
+    {
+      "inicio": 258,
+      "fin": 264,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "Curico"
+    },
+    {
+      "inicio": 275,
+      "fin": 286,
+      "tipo": "TELEFONO",
+      "rol": "paciente",
+      "texto": "50 553 5901"
+    },
+    {
+      "inicio": 329,
+      "fin": 355,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Jose Miguel Herrera Campos"
+    },
+    {
+      "inicio": 594,
+      "fin": 604,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "15-05-2026"
+    },
+    {
+      "inicio": 641,
+      "fin": 673,
+      "tipo": "NOMBRE",
+      "rol": "tercero",
+      "texto": "Sebastian Ignacio Fuentes Cortes"
+    },
+    {
+      "inicio": 684,
+      "fin": 695,
+      "tipo": "TELEFONO",
+      "rol": "tercero",
+      "texto": "44 788 5847"
+    },
+    {
+      "inicio": 760,
+      "fin": 786,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Jose Miguel Herrera Campos"
+    },
+    {
+      "inicio": 792,
+      "fin": 804,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "14.906.300-5"
+    },
+    {
+      "inicio": 812,
+      "fin": 820,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "F5497-11"
+    }
+  ]
+}

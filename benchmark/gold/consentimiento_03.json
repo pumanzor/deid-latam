@@ -1,0 +1,104 @@
+{
+  "id": "consentimiento_03",
+  "plantilla": "consentimiento",
+  "entidades": [
+    {
+      "inicio": 62,
+      "fin": 90,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital Clinico Valle Verde"
+    },
+    {
+      "inicio": 98,
+      "fin": 108,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "23-09-2026"
+    },
+    {
+      "inicio": 114,
+      "fin": 138,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Maria Jose Vergara Lillo"
+    },
+    {
+      "inicio": 160,
+      "fin": 171,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "6.527.253-9"
+    },
+    {
+      "inicio": 188,
+      "fin": 234,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Calle Baquedano 2493, Condominio Altos del Sol"
+    },
+    {
+      "inicio": 246,
+      "fin": 256,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "La Florida"
+    },
+    {
+      "inicio": 267,
+      "fin": 282,
+      "tipo": "TELEFONO",
+      "rol": "paciente",
+      "texto": "+56 9 1200 5658"
+    },
+    {
+      "inicio": 325,
+      "fin": 353,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Camila Andrea Herrera Campos"
+    },
+    {
+      "inicio": 581,
+      "fin": 591,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "28/08/2026"
+    },
+    {
+      "inicio": 628,
+      "fin": 653,
+      "tipo": "NOMBRE",
+      "rol": "tercero",
+      "texto": "Juan Pablo Araya Quintana"
+    },
+    {
+      "inicio": 664,
+      "fin": 679,
+      "tipo": "TELEFONO",
+      "rol": "tercero",
+      "texto": "+56 9 2213 1878"
+    },
+    {
+      "inicio": 744,
+      "fin": 772,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Camila Andrea Herrera Campos"
+    },
+    {
+      "inicio": 778,
+      "fin": 790,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "13.327.906-7"
+    },
+    {
+      "inicio": 798,
+      "fin": 806,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "65857931"
+    }
+  ]
+}

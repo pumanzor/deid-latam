@@ -1,0 +1,69 @@
+{
+  "id": "informe_lab_03",
+  "plantilla": "informe_lab",
+  "entidades": [
+    {
+      "inicio": 31,
+      "fin": 65,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital Provincial Las Vertientes"
+    },
+    {
+      "inicio": 101,
+      "fin": 132,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Daniela Alejandra Gonzalez Soto"
+    },
+    {
+      "inicio": 138,
+      "fin": 148,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "15905665-1"
+    },
+    {
+      "inicio": 170,
+      "fin": 180,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "16-04-1990"
+    },
+    {
+      "inicio": 193,
+      "fin": 207,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "HC-2022-393243"
+    },
+    {
+      "inicio": 234,
+      "fin": 244,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "17/04/2026"
+    },
+    {
+      "inicio": 305,
+      "fin": 339,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Patricio Hernan Sepulveda Aguilera"
+    },
+    {
+      "inicio": 805,
+      "fin": 837,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Sebastian Ignacio Valdes Urrutia"
+    },
+    {
+      "inicio": 849,
+      "fin": 864,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "+56 9 4937 8800"
+    }
+  ]
+}

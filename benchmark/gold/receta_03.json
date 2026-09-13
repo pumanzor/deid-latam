@@ -1,0 +1,90 @@
+{
+  "id": "receta_03",
+  "plantilla": "receta",
+  "entidades": [
+    {
+      "inicio": 15,
+      "fin": 33,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Clinica Cordillera"
+    },
+    {
+      "inicio": 34,
+      "fin": 77,
+      "tipo": "DIRECCION",
+      "rol": "institucion",
+      "texto": "Camino El Roble 4634, Poblacion El Esfuerzo"
+    },
+    {
+      "inicio": 79,
+      "fin": 91,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "San Bernardo"
+    },
+    {
+      "inicio": 102,
+      "fin": 117,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "+56 9 6419 6764"
+    },
+    {
+      "inicio": 126,
+      "fin": 136,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "04-12-2026"
+    },
+    {
+      "inicio": 148,
+      "fin": 173,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Antonia Paz Vergara Lillo"
+    },
+    {
+      "inicio": 179,
+      "fin": 188,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "9011591-K"
+    },
+    {
+      "inicio": 195,
+      "fin": 197,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "43"
+    },
+    {
+      "inicio": 214,
+      "fin": 228,
+      "tipo": "PREVISION",
+      "rol": "paciente",
+      "texto": "Fonasa tramo B"
+    },
+    {
+      "inicio": 502,
+      "fin": 532,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Patricio Hernan Araya Quintana"
+    },
+    {
+      "inicio": 548,
+      "fin": 557,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "142777878"
+    },
+    {
+      "inicio": 565,
+      "fin": 589,
+      "tipo": "EMAIL",
+      "rol": "profesional",
+      "texto": "alillo@correo-ejemplo.cl"
+    }
+  ]
+}

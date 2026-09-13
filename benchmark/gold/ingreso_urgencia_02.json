@@ -1,0 +1,104 @@
+{
+  "id": "ingreso_urgencia_02",
+  "plantilla": "ingreso_urgencia",
+  "entidades": [
+    {
+      "inicio": 30,
+      "fin": 58,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital Clinico Valle Verde"
+    },
+    {
+      "inicio": 102,
+      "fin": 116,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "HC-2026-907451"
+    },
+    {
+      "inicio": 142,
+      "fin": 152,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "26/12/2026"
+    },
+    {
+      "inicio": 197,
+      "fin": 223,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Antonia Paz Tapia Sandoval"
+    },
+    {
+      "inicio": 229,
+      "fin": 239,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "23703434-1"
+    },
+    {
+      "inicio": 246,
+      "fin": 248,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "34"
+    },
+    {
+      "inicio": 265,
+      "fin": 285,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Camino El Roble 1192"
+    },
+    {
+      "inicio": 287,
+      "fin": 299,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "San Bernardo"
+    },
+    {
+      "inicio": 310,
+      "fin": 319,
+      "tipo": "TELEFONO",
+      "rol": "paciente",
+      "texto": "992228802"
+    },
+    {
+      "inicio": 328,
+      "fin": 355,
+      "tipo": "EMAIL",
+      "rol": "paciente",
+      "texto": "asandoval@correo-ejemplo.cl"
+    },
+    {
+      "inicio": 367,
+      "fin": 391,
+      "tipo": "PREVISION",
+      "rol": "paciente",
+      "texto": "Isapre Banmedica plan 4B"
+    },
+    {
+      "inicio": 405,
+      "fin": 436,
+      "tipo": "NOMBRE",
+      "rol": "tercero",
+      "texto": "Matias Nicolas Bustos Cifuentes"
+    },
+    {
+      "inicio": 447,
+      "fin": 458,
+      "tipo": "TELEFONO",
+      "rol": "tercero",
+      "texto": "38 969 5050"
+    },
+    {
+      "inicio": 622,
+      "fin": 653,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Valentina Soledad Melo Sanhueza"
+    }
+  ]
+}

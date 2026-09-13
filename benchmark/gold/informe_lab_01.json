@@ -1,0 +1,69 @@
+{
+  "id": "informe_lab_01",
+  "plantilla": "informe_lab",
+  "entidades": [
+    {
+      "inicio": 31,
+      "fin": 51,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital San Gabriel"
+    },
+    {
+      "inicio": 87,
+      "fin": 115,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Catalina Paz Riquelme Toledo"
+    },
+    {
+      "inicio": 121,
+      "fin": 133,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "24.615.450-3"
+    },
+    {
+      "inicio": 155,
+      "fin": 165,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "19/07/1991"
+    },
+    {
+      "inicio": 178,
+      "fin": 192,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "HC-2021-634277"
+    },
+    {
+      "inicio": 219,
+      "fin": 241,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "5 de noviembre de 2026"
+    },
+    {
+      "inicio": 305,
+      "fin": 330,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Jose Miguel Rojas Miranda"
+    },
+    {
+      "inicio": 795,
+      "fin": 819,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Juan Pablo Pizarro Leiva"
+    },
+    {
+      "inicio": 831,
+      "fin": 842,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "57 211 2876"
+    }
+  ]
+}

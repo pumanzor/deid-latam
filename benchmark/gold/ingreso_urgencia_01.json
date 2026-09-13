@@ -1,0 +1,104 @@
+{
+  "id": "ingreso_urgencia_01",
+  "plantilla": "ingreso_urgencia",
+  "entidades": [
+    {
+      "inicio": 30,
+      "fin": 47,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Cesfam Los Aromos"
+    },
+    {
+      "inicio": 91,
+      "fin": 105,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "HC-2026-595948"
+    },
+    {
+      "inicio": 131,
+      "fin": 141,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "22-07-2026"
+    },
+    {
+      "inicio": 186,
+      "fin": 216,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Patricio Hernan Araya Quintana"
+    },
+    {
+      "inicio": 222,
+      "fin": 234,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "18.794.303-5"
+    },
+    {
+      "inicio": 241,
+      "fin": 243,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "25"
+    },
+    {
+      "inicio": 260,
+      "fin": 298,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Avenida Las Torres 596, Villa El Roble"
+    },
+    {
+      "inicio": 300,
+      "fin": 308,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "Rancagua"
+    },
+    {
+      "inicio": 319,
+      "fin": 334,
+      "tipo": "TELEFONO",
+      "rol": "paciente",
+      "texto": "+56 9 4139 4116"
+    },
+    {
+      "inicio": 343,
+      "fin": 370,
+      "tipo": "EMAIL",
+      "rol": "paciente",
+      "texto": "pquintana@correo-ejemplo.cl"
+    },
+    {
+      "inicio": 382,
+      "fin": 396,
+      "tipo": "PREVISION",
+      "rol": "paciente",
+      "texto": "Fonasa tramo C"
+    },
+    {
+      "inicio": 410,
+      "fin": 438,
+      "tipo": "NOMBRE",
+      "rol": "tercero",
+      "texto": "Luis Alberto Riquelme Toledo"
+    },
+    {
+      "inicio": 449,
+      "fin": 464,
+      "tipo": "TELEFONO",
+      "rol": "tercero",
+      "texto": "+56 9 2235 8260"
+    },
+    {
+      "inicio": 625,
+      "fin": 650,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Ana Maria Riquelme Toledo"
+    }
+  ]
+}

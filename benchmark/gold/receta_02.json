@@ -1,0 +1,90 @@
+{
+  "id": "receta_02",
+  "plantilla": "receta",
+  "entidades": [
+    {
+      "inicio": 15,
+      "fin": 35,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Clinica Santa Amelia"
+    },
+    {
+      "inicio": 36,
+      "fin": 69,
+      "tipo": "DIRECCION",
+      "rol": "institucion",
+      "texto": "Pasaje Las Acacias 4823, depto 16"
+    },
+    {
+      "inicio": 71,
+      "fin": 82,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "Puente Alto"
+    },
+    {
+      "inicio": 93,
+      "fin": 104,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "45 641 2146"
+    },
+    {
+      "inicio": 113,
+      "fin": 134,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "11 de octubre de 2026"
+    },
+    {
+      "inicio": 146,
+      "fin": 182,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Daniela Alejandra Sepulveda Aguilera"
+    },
+    {
+      "inicio": 188,
+      "fin": 196,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "91817314"
+    },
+    {
+      "inicio": 203,
+      "fin": 205,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "83"
+    },
+    {
+      "inicio": 222,
+      "fin": 236,
+      "tipo": "PREVISION",
+      "rol": "paciente",
+      "texto": "Fonasa tramo C"
+    },
+    {
+      "inicio": 508,
+      "fin": 539,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Diego Alonso Sepulveda Aguilera"
+    },
+    {
+      "inicio": 559,
+      "fin": 571,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "15.944.882-7"
+    },
+    {
+      "inicio": 579,
+      "fin": 606,
+      "tipo": "EMAIL",
+      "rol": "profesional",
+      "texto": "daguilera@correo-ejemplo.cl"
+    }
+  ]
+}

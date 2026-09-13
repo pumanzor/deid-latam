@@ -1,0 +1,24 @@
+RECETA MEDICA
+
+Clinica Cordillera
+Camino El Roble 4634, Poblacion El Esfuerzo, San Bernardo
+Telefono: +56 9 6419 6764
+
+Fecha: 04-12-2026
+
+Paciente: Antonia Paz Vergara Lillo
+RUT: 9011591-K
+Edad: 43 anos
+Prevision: Fonasa tramo B
+
+Rp.
+1. atorvastatina 20 mg cada 24 horas por 30 dias
+2. metformina 850 mg cada 12 horas por 30 dias
+3. Paracetamol 500 mg cada 8 horas en caso de dolor
+
+Indicaciones: control en 30 dias. Dieta hiposodica. Consultar si presenta dolor abdominal en hipocondrio derecho.
+
+Dr. Patricio Hernan Araya Quintana
+Nefrologia
+RUT 142777878
+Correo alillo@correo-ejemplo.cl

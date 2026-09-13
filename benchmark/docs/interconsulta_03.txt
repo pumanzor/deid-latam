@@ -1,0 +1,27 @@
+SOLICITUD DE INTERCONSULTA
+
+Origen: Clinica Cordillera, comuna de San Bernardo
+Fecha de solicitud: 14/11/2026
+Folio: 55799273
+
+DATOS DEL PACIENTE
+Nombre: Rodrigo Antonio Ovalle Ferrada
+RUN: 8.541.296-5
+Edad: 65 anos
+Direccion: Camino El Roble 1353, Curico
+Telefono: 974893936
+Prevision: Isapre Banmedica plan 4B
+Ocupacion: comerciante
+
+DERIVACION A: Gastroenterologia
+
+RESUMEN CLINICO
+Paciente con cuadro de poliuria, polidipsia y decaimiento en estudio. Se solicito hemograma con VHS, cuyo resultado muestra
+alteraciones que requieren evaluacion por especialista. Actualmente en tratamiento con
+atorvastatina 20 mg cada 24 horas.
+
+Se solicita evaluacion para descartar descompensacion diabetica.
+
+Profesional solicitante: Dra. Ana Maria Herrera Campos
+RUT profesional: 20126405-7
+Correo de contacto: rferrada@correo-ejemplo.cl

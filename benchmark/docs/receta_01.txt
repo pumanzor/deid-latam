@@ -1,0 +1,24 @@
+RECETA MEDICA
+
+Hospital Provincial Las Vertientes
+Pasaje Los Canelos 2257, San Bernardo
+Telefono: +56 9 2743 5889
+
+Fecha: 12 de marzo de 2026
+
+Paciente: Jose Miguel Zuniga Paredes
+RUT: 15.876.872-0
+Edad: 21 anos
+Prevision: Fonasa tramo A
+
+Rp.
+1. atorvastatina 20 mg cada 24 horas por 30 dias
+2. levotiroxina 75 mcg cada 24 horas por 30 dias
+3. Paracetamol 500 mg cada 8 horas en caso de dolor
+
+Indicaciones: control en 30 dias. Dieta hiposodica. Consultar si presenta cefalea occipital y vision borrosa.
+
+Dr. Constanza Beatriz Vergara Lillo
+Cirugia General
+RUT 13.034.686-3
+Correo jparedes@correo-ejemplo.cl

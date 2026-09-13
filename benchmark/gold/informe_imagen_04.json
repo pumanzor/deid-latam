@@ -1,0 +1,76 @@
+{
+  "id": "informe_imagen_04",
+  "plantilla": "informe_imagen",
+  "entidades": [
+    {
+      "inicio": 33,
+      "fin": 51,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Clinica Cordillera"
+    },
+    {
+      "inicio": 53,
+      "fin": 63,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "La Florida"
+    },
+    {
+      "inicio": 74,
+      "fin": 100,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Diego Alonso Pizarro Leiva"
+    },
+    {
+      "inicio": 109,
+      "fin": 121,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "18.239.725-3"
+    },
+    {
+      "inicio": 139,
+      "fin": 149,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "09-09-2026"
+    },
+    {
+      "inicio": 169,
+      "fin": 177,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "45186708"
+    },
+    {
+      "inicio": 200,
+      "fin": 231,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Francisca Belen Riquelme Toledo"
+    },
+    {
+      "inicio": 611,
+      "fin": 642,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Sebastian Ignacio Gonzalez Soto"
+    },
+    {
+      "inicio": 663,
+      "fin": 687,
+      "tipo": "EMAIL",
+      "rol": "profesional",
+      "texto": "dleiva@correo-ejemplo.cl"
+    },
+    {
+      "inicio": 690,
+      "fin": 701,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "26 850 8606"
+    }
+  ]
+}

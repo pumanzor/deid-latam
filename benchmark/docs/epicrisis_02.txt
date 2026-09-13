@@ -1,0 +1,37 @@
+EPICRISIS DE ALTA
+(documento ficticio generado para evaluacion. Personas, establecimiento y direccion inventados)
+
+Establecimiento: Clinica Santa Amelia, San Bernardo
+Paciente: Rodrigo Antonio Fuentes Cortes
+RUT: 121522713
+Fecha de nacimiento: 05/06/1953 (66 anos)
+Domicilio: Avenida Los Aromos 1392, Quilpue
+Telefono de contacto: 74 767 5905
+Correo: rcortes@correo-ejemplo.cl
+Ficha clinica N: F2891-23
+Prevision: Isapre Consalud plan 2C
+Fecha de ingreso: 5 de mayo de 2026    Fecha de alta: 07/12/2026
+
+MOTIVO DE INGRESO
+Paciente de 66 anos consulta en el servicio de urgencia por dolor en fosa iliaca derecha de
+48 horas de evolucion, asociado a nauseas, vomitos y fiebre hasta 38,5 C.
+
+ANTECEDENTES
+Hipertension arterial en tratamiento con losartan 50 mg cada 12 horas. Diabetes mellitus tipo 2 en tratamiento
+con metformina 850 mg cada 12 horas. Alergia a penicilina.
+
+EVOLUCION
+creatinina plasmatica informada por el Dr. Diego Alonso Herrera Campos muestra hallazgos compatibles con
+apendicitis aguda. Se inicia ceftriaxona 1 g cada 24 horas endovenoso y metronidazol 500 mg cada
+8 horas.
+
+Se realiza apendicectomia laparoscopica el 17/08/2026 por el equipo de Nefrologia a cargo
+del Dr. Diego Alonso Herrera Campos. Evolucion postoperatoria favorable, con buena tolerancia oral
+al segundo dia.
+
+INDICACIONES AL ALTA
+Paracetamol 1 g cada 8 horas por 5 dias. Mantener losartan 50 mg cada 12 horas en dosis habitual.
+Control en 10 dias en policlinico de Nefrologia.
+
+Medico tratante: Dr. Diego Alonso Herrera Campos, RUT 8.097.022-6
+Contacto secretaria: 43 989 3143

@@ -1,0 +1,104 @@
+{
+  "id": "consentimiento_02",
+  "plantilla": "consentimiento",
+  "entidades": [
+    {
+      "inicio": 62,
+      "fin": 89,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital Regional del Maipo"
+    },
+    {
+      "inicio": 97,
+      "fin": 107,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "20-10-2026"
+    },
+    {
+      "inicio": 113,
+      "fin": 138,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Jose Miguel Pizarro Leiva"
+    },
+    {
+      "inicio": 160,
+      "fin": 172,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "23.385.721-1"
+    },
+    {
+      "inicio": 189,
+      "fin": 222,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Avenida Los Aromos 2450, depto 85"
+    },
+    {
+      "inicio": 234,
+      "fin": 243,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "Talagante"
+    },
+    {
+      "inicio": 254,
+      "fin": 263,
+      "tipo": "TELEFONO",
+      "rol": "paciente",
+      "texto": "969345683"
+    },
+    {
+      "inicio": 306,
+      "fin": 336,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Patricio Hernan Zuniga Paredes"
+    },
+    {
+      "inicio": 561,
+      "fin": 582,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "22 de febrero de 2026"
+    },
+    {
+      "inicio": 619,
+      "fin": 646,
+      "tipo": "NOMBRE",
+      "rol": "tercero",
+      "texto": "Diego Alonso Munoz Alcayaga"
+    },
+    {
+      "inicio": 657,
+      "fin": 672,
+      "tipo": "TELEFONO",
+      "rol": "tercero",
+      "texto": "+56 9 2530 4848"
+    },
+    {
+      "inicio": 737,
+      "fin": 767,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Patricio Hernan Zuniga Paredes"
+    },
+    {
+      "inicio": 773,
+      "fin": 782,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "6550675-0"
+    },
+    {
+      "inicio": 790,
+      "fin": 798,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "F8461-63"
+    }
+  ]
+}

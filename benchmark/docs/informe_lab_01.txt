@@ -1,0 +1,24 @@
+INFORME DE LABORATORIO CLINICO
+Hospital San Gabriel - Unidad de Laboratorio
+
+Paciente: Catalina Paz Riquelme Toledo
+RUT: 24.615.450-3
+Fecha de nacimiento: 19/07/1991
+N de orden: HC-2021-634277
+Fecha de toma de muestra: 5 de noviembre de 2026
+Servicio solicitante: Medicina Interna
+Medico solicitante: Dr. Jose Miguel Rojas Miranda
+
+RESULTADOS
+Hemoglobina           13,4 g/dL       (12,0 - 16,0)
+Leucocitos            14.200 /uL      (4.000 - 11.000)
+Proteina C reactiva   86 mg/L         (menor a 5)
+Creatinina            0,9 mg/dL       (0,6 - 1,1)
+Glicemia              178 mg/dL       (70 - 100)
+
+OBSERVACIONES
+Leucocitosis con desviacion a izquierda y PCR elevada, compatible con proceso infeccioso agudo.
+Se sugiere correlacionar con ecografia abdominal y cuadro clinico.
+
+Validado por: TM Juan Pablo Pizarro Leiva
+Consultas: 57 211 2876

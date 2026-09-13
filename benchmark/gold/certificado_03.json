@@ -1,0 +1,90 @@
+{
+  "id": "certificado_03",
+  "plantilla": "certificado",
+  "entidades": [
+    {
+      "inicio": 20,
+      "fin": 47,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Hospital Regional del Maipo"
+    },
+    {
+      "inicio": 48,
+      "fin": 57,
+      "tipo": "COMUNA",
+      "rol": "institucion",
+      "texto": "Melipilla"
+    },
+    {
+      "inicio": 59,
+      "fin": 69,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "17-11-2026"
+    },
+    {
+      "inicio": 94,
+      "fin": 126,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Valentina Soledad Ovalle Ferrada"
+    },
+    {
+      "inicio": 132,
+      "fin": 144,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "11.089.765-0"
+    },
+    {
+      "inicio": 149,
+      "fin": 151,
+      "tipo": "EDAD",
+      "rol": "paciente",
+      "texto": "81"
+    },
+    {
+      "inicio": 183,
+      "fin": 232,
+      "tipo": "DIRECCION",
+      "rol": "paciente",
+      "texto": "Avenida Las Torres 3950, depto 53, Villa El Roble"
+    },
+    {
+      "inicio": 244,
+      "fin": 249,
+      "tipo": "COMUNA",
+      "rol": "paciente",
+      "texto": "Maipu"
+    },
+    {
+      "inicio": 275,
+      "fin": 284,
+      "tipo": "PROFESION",
+      "rol": "paciente",
+      "texto": "contadora"
+    },
+    {
+      "inicio": 574,
+      "fin": 600,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Jose Miguel Araya Quintana"
+    },
+    {
+      "inicio": 621,
+      "fin": 633,
+      "tipo": "RUT",
+      "rol": "profesional",
+      "texto": "14.670.984-2"
+    },
+    {
+      "inicio": 653,
+      "fin": 668,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "+56 9 1601 8451"
+    }
+  ]
+}

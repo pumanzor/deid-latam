@@ -1,0 +1,27 @@
+SOLICITUD DE INTERCONSULTA
+
+Origen: Hospital San Gabriel, comuna de Puente Alto
+Fecha de solicitud: 10 de diciembre de 2026
+Folio: F3434-67
+
+DATOS DEL PACIENTE
+Nombre: Daniela Alejandra Melo Sanhueza
+RUN: 21251800K
+Edad: 61 anos
+Direccion: Calle Baquedano 4551, depto 52, Chillan
+Telefono: 941348220
+Prevision: Isapre Colmena plan Basico
+Ocupacion: asistente social
+
+DERIVACION A: Gastroenterologia
+
+RESUMEN CLINICO
+Paciente con cuadro de tos productiva y fiebre en estudio. Se solicito radiografia de torax, cuyo resultado muestra
+alteraciones que requieren evaluacion por especialista. Actualmente en tratamiento con
+losartan 50 mg cada 12 horas.
+
+Se solicita evaluacion para descartar neumonia adquirida en la comunidad.
+
+Profesional solicitante: Dra. Gonzalo Esteban Pizarro Leiva
+RUT profesional: 17954653-1
+Correo de contacto: dsanhueza@correo-ejemplo.cl

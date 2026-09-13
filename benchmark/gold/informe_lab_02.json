@@ -1,0 +1,69 @@
+{
+  "id": "informe_lab_02",
+  "plantilla": "informe_lab",
+  "entidades": [
+    {
+      "inicio": 31,
+      "fin": 48,
+      "tipo": "ESTABLECIMIENTO",
+      "rol": "institucion",
+      "texto": "Cesfam Los Aromos"
+    },
+    {
+      "inicio": 84,
+      "fin": 117,
+      "tipo": "NOMBRE",
+      "rol": "paciente",
+      "texto": "Sebastian Ignacio Riquelme Toledo"
+    },
+    {
+      "inicio": 123,
+      "fin": 132,
+      "tipo": "RUT",
+      "rol": "paciente",
+      "texto": "20445213K"
+    },
+    {
+      "inicio": 154,
+      "fin": 164,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "10/04/1973"
+    },
+    {
+      "inicio": 177,
+      "fin": 191,
+      "tipo": "ID_INTERNO",
+      "rol": "paciente",
+      "texto": "HC-2025-302511"
+    },
+    {
+      "inicio": 218,
+      "fin": 236,
+      "tipo": "FECHA",
+      "rol": "paciente",
+      "texto": "25 de mayo de 2026"
+    },
+    {
+      "inicio": 301,
+      "fin": 330,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Cristian Andres Pizarro Leiva"
+    },
+    {
+      "inicio": 793,
+      "fin": 820,
+      "tipo": "NOMBRE",
+      "rol": "profesional",
+      "texto": "Diego Alonso Valdes Urrutia"
+    },
+    {
+      "inicio": 832,
+      "fin": 847,
+      "tipo": "TELEFONO",
+      "rol": "institucion",
+      "texto": "+56 9 6425 1452"
+    }
+  ]
+}

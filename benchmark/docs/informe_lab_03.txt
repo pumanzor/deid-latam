@@ -1,0 +1,24 @@
+INFORME DE LABORATORIO CLINICO
+Hospital Provincial Las Vertientes - Unidad de Laboratorio
+
+Paciente: Daniela Alejandra Gonzalez Soto
+RUT: 15905665-1
+Fecha de nacimiento: 16-04-1990
+N de orden: HC-2022-393243
+Fecha de toma de muestra: 17/04/2026
+Servicio solicitante: Traumatologia
+Medico solicitante: Dr. Patricio Hernan Sepulveda Aguilera
+
+RESULTADOS
+Hemoglobina           13,4 g/dL       (12,0 - 16,0)
+Leucocitos            14.200 /uL      (4.000 - 11.000)
+Proteina C reactiva   86 mg/L         (menor a 5)
+Creatinina            0,9 mg/dL       (0,6 - 1,1)
+Glicemia              178 mg/dL       (70 - 100)
+
+OBSERVACIONES
+Leucocitosis con desviacion a izquierda y PCR elevada, compatible con proceso infeccioso agudo.
+Se sugiere correlacionar con radiografia de torax y cuadro clinico.
+
+Validado por: TM Sebastian Ignacio Valdes Urrutia
+Consultas: +56 9 4937 8800
