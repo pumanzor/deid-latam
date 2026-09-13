@@ -1,0 +1,67 @@
+/home/pablou/projects/openmed/.venv/lib/python3.13/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  60%|█████▉    | 235/392 [00:00<00:00, 2343.68it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 2095.17it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  61%|██████    | 240/392 [00:00<00:00, 2390.59it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 2156.51it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  73%|███████▎  | 286/392 [00:00<00:00, 2857.44it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 2794.88it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  58%|█████▊    | 227/392 [00:00<00:00, 2239.85it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 2355.01it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  64%|██████▍   | 250/392 [00:00<00:00, 2497.03it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 2207.35it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  65%|██████▍   | 253/392 [00:00<00:00, 2521.43it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 2511.57it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  57%|█████▋    | 224/392 [00:00<00:00, 2236.26it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 2148.35it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  61%|██████    | 239/392 [00:00<00:00, 2375.45it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 2117.41it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  50%|█████     | 196/392 [00:00<00:00, 1953.25it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 2085.97it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  62%|██████▎   | 245/392 [00:00<00:00, 2441.67it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 2429.63it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  63%|██████▎   | 247/392 [00:00<00:00, 2464.91it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 2250.46it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  58%|█████▊    | 228/392 [00:00<00:00, 2278.60it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 2093.12it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  33%|███▎      | 131/392 [00:00<00:00, 1307.40it/s]Loading weights:  72%|███████▏  | 281/392 [00:00<00:00, 1372.19it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1319.73it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  41%|████      | 160/392 [00:00<00:00, 1588.82it/s]Loading weights:  81%|████████▏ | 319/392 [00:00<00:00, 1359.93it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1344.17it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  48%|████▊     | 189/392 [00:00<00:00, 1860.55it/s]Loading weights:  96%|█████████▌| 376/392 [00:00<00:00, 1559.06it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1630.62it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  43%|████▎     | 167/392 [00:00<00:00, 1657.47it/s]Loading weights:  85%|████████▍ | 333/392 [00:00<00:00, 1278.15it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1269.86it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  44%|████▎     | 171/392 [00:00<00:00, 1693.42it/s]Loading weights:  87%|████████▋ | 341/392 [00:00<00:00, 1582.19it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1541.70it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  49%|████▉     | 192/392 [00:00<00:00, 1863.11it/s]Loading weights:  97%|█████████▋| 379/392 [00:00<00:00, 1417.84it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1483.48it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  33%|███▎      | 129/392 [00:00<00:00, 1282.66it/s]Loading weights:  68%|██████▊   | 267/392 [00:00<00:00, 1337.73it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1302.66it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  45%|████▌     | 178/392 [00:00<00:00, 1758.89it/s]Loading weights:  90%|█████████ | 354/392 [00:00<00:00, 1434.96it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1570.36it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  47%|████▋     | 186/392 [00:00<00:00, 1847.32it/s]Loading weights:  95%|█████████▍| 371/392 [00:00<00:00, 1631.69it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1652.46it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  55%|█████▌    | 216/392 [00:00<00:00, 2158.47it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1592.88it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  44%|████▍     | 172/392 [00:00<00:00, 1696.24it/s]Loading weights:  87%|████████▋ | 342/392 [00:00<00:00, 1484.07it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1532.92it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  49%|████▊     | 191/392 [00:00<00:00, 1855.77it/s]Loading weights:  96%|█████████▌| 377/392 [00:00<00:00, 1566.26it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1645.89it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  45%|████▌     | 178/392 [00:00<00:00, 1762.69it/s]Loading weights:  91%|█████████ | 355/392 [00:00<00:00, 1514.21it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1517.97it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  42%|████▏     | 166/392 [00:00<00:00, 1643.86it/s]Loading weights:  84%|████████▍ | 331/392 [00:00<00:00, 1393.19it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1446.81it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  42%|████▏     | 165/392 [00:00<00:00, 1649.53it/s]Loading weights:  84%|████████▍ | 330/392 [00:00<00:00, 1379.79it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1302.33it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  45%|████▌     | 178/392 [00:00<00:00, 1758.59it/s]Loading weights:  90%|█████████ | 354/392 [00:00<00:00, 1415.69it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1448.82it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  46%|████▌     | 179/392 [00:00<00:00, 1782.32it/s]Loading weights:  91%|█████████▏| 358/392 [00:00<00:00, 1468.18it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1490.79it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  48%|████▊     | 188/392 [00:00<00:00, 1872.92it/s]Loading weights:  96%|█████████▌| 376/392 [00:00<00:00, 1543.90it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1578.85it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  52%|█████▏    | 204/392 [00:00<00:00, 2012.04it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1634.62it/s]
+Loading weights:   0%|          | 0/392 [00:00<?, ?it/s]Loading weights:  44%|████▍     | 173/392 [00:00<00:00, 1672.88it/s]Loading weights:  87%|████████▋ | 341/392 [00:00<00:00, 1388.21it/s]Loading weights: 100%|██████████| 392/392 [00:00<00:00, 1425.00it/s]
+
+Set: 32 documentos  ·  Pipeline: large umbral 0.7  ·  542.1 s
+Idioma detectado por la libreria: en
+
+tipo              completo   parcial   total
+----------------------------------------------------
+NOMBRE                0.0%     44.6%   92
+FECHA               100.0%      0.0%   52
+RUT                   7.7%      7.7%   52
+TELEFONO             59.1%     40.9%   44
+COMUNA              100.0%      0.0%   40
+ESTABLECIMIENTO       3.1%     53.1%   32
+EDAD                  0.0%      0.0%   24
+DIRECCION            29.2%     70.8%   24
+ID_INTERNO            0.0%      0.0%   24
+EMAIL               100.0%      0.0%   20
+PREVISION             0.0%      0.0%   16
+PROFESION             0.0%      0.0%   8
+----------------------------------------------------
+TOTAL                35.0%     22.7%   428
+  completo = todo el identificador redactado. parcial = quedo un trozo a la vista.
+
+DOCUMENTOS CON FUGA: 32 de 32  (100%)
+  (fuga = queda al menos un RUT, telefono, correo o nombre de paciente sin redactar)
+
+  certificado_01           NOMBRE:Maria Jose Rojas Miranda, RUT:24115134-4, RUT:15542261-0
+  certificado_02           NOMBRE:Maria Fernanda Carrasco Bravo, RUT:123625684, RUT:22.922.215-5
+  certificado_03           NOMBRE:Valentina Soledad Ovalle Ferrada, RUT:11.089.765-0, RUT:14.670.984-2 ...
+  certificado_04           NOMBRE:Camila Andrea Ovalle Ferrada, RUT:9.552.130-4, RUT:21.419.761-8 ...
+  consentimiento_01        NOMBRE:Sebastian Ignacio Rojas Miranda, RUT:105407416, TELEFONO:+56 9 4770 4608 ...
+  consentimiento_02        NOMBRE:Jose Miguel Pizarro Leiva, RUT:23.385.721-1, TELEFONO:+56 9 2530 4848 ...
+  ... y 26 documentos mas

@@ -84,28 +84,34 @@ Model measured: `OpenMed/OpenMed-PII-Spanish-SuperClinical-Small-44M-v1`, thresh
 An identifier counts as **complete** only when the whole span is redacted. A name cut in
 half counts as a leak, because "Rojas Miranda" still identifies a person.
 
-| Entity | Model alone | Model + deid-latam | Count |
-|---|---|---|---|
-| NAME | 0.0% | 0.0% | 92 |
-| DATE | 100% | 100% | 52 |
-| **RUT** | **5.8%** | **100%** | 52 |
-| PHONE | 79.5% | 79.5% | 44 |
-| CITY | 90.0% | 90.0% | 40 |
-| FACILITY | 3.1% | 3.1% | 32 |
-| AGE | 0.0% | 0.0% | 24 |
-| ADDRESS | 29.2% | 29.2% | 24 |
-| RECORD ID | 4.2% | 4.2% | 24 |
-| EMAIL | 100% | 100% | 20 |
-| **TOTAL** | **36.2%** | **47.7%** | 428 |
-| **Documents with a leak** | **32/32** | **32/32** | 32 |
+| Entity | Small 44M | Large 434M | Small + deid-latam | Count |
+|---|---|---|---|---|
+| NAME | 0.0% | 0.0% | 0.0% | 92 |
+| DATE | 100% | 100% | 100% | 52 |
+| **RUT** | **5.8%** | **7.7%** | **100%** | 52 |
+| PHONE | 79.5% | 59.1% | 79.5% | 44 |
+| CITY | 90.0% | 100% | 90.0% | 40 |
+| FACILITY | 3.1% | 3.1% | 3.1% | 32 |
+| AGE | 0.0% | 0.0% | 0.0% | 24 |
+| ADDRESS | 29.2% | 29.2% | 29.2% | 24 |
+| RECORD ID | 4.2% | 0.0% | 4.2% | 24 |
+| EMAIL | 100% | 100% | 100% | 20 |
+| **TOTAL** | **36.2%** | **35.0%** | **47.7%** | 428 |
+| **Documents with a leak** | **32/32** | **32/32** | **32/32** | 32 |
+| Wall clock, 32 docs, CPU | 166 s | 542 s | 166 s | |
 
-Three things worth reading twice.
+Four things worth reading twice.
 
 **The RUT goes from 5.8% to 100%.** That is what this package does.
 
-**Names sit at 0% complete, and 76% partial.** The model is not blind to names, it
-detects a fragment of 76% of them and never covers the whole thing. Spanish
-speaking Latin America uses two surnames, and the model tags one token and stops.
+**Names sit at 0% complete.** Neither model covers a single one of the 92. The Small
+model detects a fragment of 76% of them, the Large one of 44%. Spanish speaking Latin
+America uses two surnames, and the models tag one token and stop.
+
+**The 434M model is worse than the 44M one.** Ten times the parameters, three times the
+wall clock, and one point lower overall. It sees fewer name fragments (44.6% against
+76.1%) and fewer phone numbers (59.1% against 79.5%). Bigger is not better here, and
+that is worth knowing before anyone pays for the inference.
 
 **Fixing the RUT saves no document at all.** Both columns leak in 32 of 32, because the
 patient name is still exposed. The national identifier is half the problem. The other
