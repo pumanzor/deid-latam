@@ -24,10 +24,12 @@ dependencies = []
 
 [project.optional-dependencies]
 dev = ["pytest>=7"]
+presidio = ["presidio-analyzer>=2.2"]
+openmed = ["openmed>=2.3"]
 
 [project.urls]
-Homepage = "https://github.com/REEMPLAZAR/deid-latam"
-Issues = "https://github.com/REEMPLAZAR/deid-latam/issues"
+Homepage = "https://github.com/pumanzor/deid-latam"
+Issues = "https://github.com/pumanzor/deid-latam/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/deid_latam"]

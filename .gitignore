@@ -5,3 +5,8 @@ __pycache__/
 dist/
 build/
 *.egg-info/
+
+# Bitacora de trabajo local, no va al repo publico
+.session_live.d/
+CURRENT_STATE.md
+session_log.md

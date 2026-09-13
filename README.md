@@ -126,18 +126,48 @@ a hospital's real archive. For that you need a data agreement and an ethics comm
 
 ## Use with Presidio and OpenMed
 
-```python
-# Presidio
-from presidio_analyzer import AnalyzerEngine, PatternRecognizer, Pattern as PPattern
-from deid_latam.patterns import patterns_for
+Both adapters call `find_identifiers` instead of re-implementing the patterns, so what
+an integration detects is what the benchmark measures. Neither library is a dependency.
 
-# OpenMed
-import openmed as om
-from deid_latam import find_identifiers
-spans = find_identifiers(text)   # merge with om.deidentify(...).pii_entities
+```bash
+pip install "deid-latam[presidio]"
+pip install "deid-latam[openmed]"
 ```
 
-Both integrations live in `src/deid_latam/integrations/`.
+**Presidio.** `register()` adds a recognizer to the engine, one instance per language,
+because a Presidio recognizer is bound to the language of the run.
+
+```python
+from presidio_analyzer import AnalyzerEngine
+from deid_latam.integrations.presidio import register
+
+analyzer = AnalyzerEngine()
+register(analyzer)
+analyzer.analyze(text="RUT 15.847.392-5", language="es")
+# [type: CL_RUT, start: 4, end: 16, score: 1.0]
+```
+
+It is an `EntityRecognizer`, not a `PatternRecognizer`. A `PatternRecognizer` carries
+the regex but not the check digit, and Presidio context words only raise a score where
+this needs them to gate the match.
+
+**OpenMed.** The model finds the names and dates, this finds the identifiers, and the
+spans are merged on the original offsets before a single redaction pass.
+
+```python
+from deid_latam.integrations.openmed import redact, find_all
+
+redact(text)                    # Small 44M by default
+spans = find_all(text, model_name="OpenMed/OpenMed-PII-Spanish-SuperClinical-Large-434M-v1")
+```
+
+Where a model span covers half an identifier, the merge takes the union of both ranges,
+never the shorter one. Half a RUT redacted is a RUT on the page.
+
+OpenMed's own `custom_recognizer` hook is not used: it takes deny-list regexes, and a
+regex cannot run a check digit.
+
+Both adapters live in `src/deid_latam/integrations/`.
 
 ## Pseudonymisation, not anonymisation
 
