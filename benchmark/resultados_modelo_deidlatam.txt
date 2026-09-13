@@ -1,42 +1,5 @@
-/home/pablou/projects/openmed/.venv/lib/python3.13/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
-  warnings.warn(
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2109.12it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2373.40it/s]
-Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 1681.05it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2105.43it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 1799.37it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 1578.63it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2033.55it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 1781.44it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 1908.11it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 1658.77it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 1462.43it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2296.07it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 1976.41it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2038.08it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2631.45it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2208.41it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2145.14it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2025.10it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2486.42it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2054.37it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 1684.91it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 1712.05it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 1933.37it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 1849.61it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 1831.36it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2043.18it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2251.09it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2107.64it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2392.09it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2149.02it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 2185.47it/s]
-Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 1967.66it/s]
-
 Set: 32 documentos  ·  Pipeline: small umbral 0.7 + deid-latam  ·  166.5 s
 Idioma detectado por la libreria: en
-
 tipo              completo   parcial   total
 ----------------------------------------------------
 NOMBRE                0.0%     76.1%   92
@@ -54,10 +17,8 @@ PROFESION             0.0%      0.0%   8
 ----------------------------------------------------
 TOTAL                47.7%     25.7%   428
   completo = todo el identificador redactado. parcial = quedo un trozo a la vista.
-
 DOCUMENTOS CON FUGA: 32 de 32  (100%)
   (fuga = queda al menos un RUT, telefono, correo o nombre de paciente sin redactar)
-
   certificado_01           NOMBRE:Maria Jose Rojas Miranda
   certificado_02           NOMBRE:Maria Fernanda Carrasco Bravo
   certificado_03           NOMBRE:Valentina Soledad Ovalle Ferrada
